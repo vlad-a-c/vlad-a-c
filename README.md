@@ -1,16 +1,23 @@
-## Hi there 👋
+# Vlad Alex Ciotescu
 
-<!--
-**vlad-a-c/vlad-a-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am building toward a Junior Linux/System Administration role through hands-on administration of a personal Ubuntu VPS. My interests include Linux operations, web hosting, DNS, TLS, troubleshooting, and accessibility.
 
-Here are some ideas to get you started:
+## Practical experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ubuntu Server 22.04 LTS and SSH-based administration
+- ISPConfig for web hosting and DNS management
+- Nginx, BIND DNS, and Let's Encrypt certificates in a hosting environment
+- Hosted services including TeamTalk and AzuraCast
+- Investigating service, DNS, and certificate issues
+
+## Currently learning
+
+UFW, SSH hardening, backups, monitoring, and Bash scripting. I document new security practices after applying and verifying them.
+
+## Selected work
+
+- [Linux VPS Infrastructure](https://github.com/vlad-a-c/linux-vps-infrastructure): sanitized notes about the VPS I administer and the issues I troubleshoot.
+- [Metric System Conversion](https://github.com/vlad-a-c/metric-system-conversion): an older college project with screen reader accessibility features, retained as historical work.
+- [PlayPalace11](https://github.com/vlad-a-c/PlayPalace11): manual accessibility testing, issue reproduction, and validation. Technical changes are developed through a Codex-assisted workflow.
+
+I value clear documentation, honest descriptions of my work, and software that people can use with a screen reader.
