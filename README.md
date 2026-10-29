@@ -4,7 +4,7 @@ I am building toward a Junior Linux/System Administration role through hands-on 
 
 ## Practical experience
 
-- Ubuntu Server 22.04 LTS and SSH-based administration
+- Ubuntu Server 24.04 LTS and SSH-based administration
 - Managing web hosting and DNS records through the ISPConfig interface
 - Using ISPConfig to manage hosting settings and Let's Encrypt certificates
 - Hosted services including TeamTalk and AzuraCast
