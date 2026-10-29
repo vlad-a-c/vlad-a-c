@@ -5,10 +5,12 @@ I am building toward a Junior Linux/System Administration role through hands-on 
 ## Practical experience
 
 - Ubuntu Server 22.04 LTS and SSH-based administration
-- ISPConfig for web hosting and DNS management
-- Nginx, BIND DNS, and Let's Encrypt certificates in a hosting environment
+- Managing web hosting and DNS records through the ISPConfig interface
+- Using ISPConfig to manage hosting settings and Let's Encrypt certificates
 - Hosted services including TeamTalk and AzuraCast
 - Investigating service, DNS, and certificate issues
+
+My DNS and hosting configuration work has been done through ISPConfig. I have not manually edited BIND or Postfix configuration files.
 
 ## Currently learning
 
